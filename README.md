@@ -5,7 +5,6 @@ I'm Estefania 👩‍💻, and I'm deeply passionate about the ever-evolving wor
 
 ## About Me
 - 👩‍💼 I work in the tech industry, constantly exploring and learning.
-- 🌱 Currently, my focus is on learning Go and staying updated with emerging technologies.
 - 🚀 I love building things and solving problems using code.
 - 💬 Feel free to reach out to me for tech discussions or collaboration opportunities!
 
