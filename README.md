@@ -11,6 +11,6 @@ I'm Estefania 👩‍💻, and I'm deeply passionate about the ever-evolving wor
 ## Let's Connect!
 - 📫 You can reach me via email at [edelvallefiorabanti@gmail.com](mailto:edelvallefiorabanti@gmail.com).
 - 🌐 Connect with me on [Linkedin](https://www.linkedin.com/in/estefania-del-valle-fiorabanti).
-- 🔗 Check out my portfolio website [here](https://estefaniadel.github.io/website/#home).
+
 
 Thanks for stopping by! Let's explore the tech world together. 🚀
